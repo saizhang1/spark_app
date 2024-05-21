@@ -1,0 +1,7 @@
+{"event":"registered", "timestamp":"2020-11-02T06:21:14.000Z", "initiator_id":1, "channel":"browser"}
+{"event":"registered", "timestamp":"2020-11-02T07:00:14.000Z", "initiator_id":2, "channel":"browser"}
+{"event":"app_loaded", "timestamp":"2020-11-03T06:24:42.000Z", "initiator_id":1, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-11-03T07:00:14.000Z", "initiator_id":3, "channel":"browser"}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z", "initiator_id":2, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-11-12T11:08:42.000Z","initiator_id":2, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-11-17T11:08:42.000Z", "initiator_id":3, "device_type":"mobile"}
